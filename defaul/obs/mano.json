@@ -1,0 +1,172 @@
+[
+  {
+    "nombre": "Salir",
+    "key": "KEY_ESC",
+    "accion": "salir"
+  },
+  {
+    "nombre": "Reiniciar Data",
+    "accion": "reiniciar_data",
+    "key": "KEY_F1"
+  },
+  {
+    "nombre": "OBS",
+    "key": "KEY_F2",
+    "titulo": "OBS",
+    "accion": "entrar_folder",
+    "opciones": {
+      "folder": "../obs"
+    }
+  },
+  {
+    "nombre": "blender",
+    "key": "KEY_F3",
+    "titulo": "blender",
+    "accion": "entrar_folder",
+    "opciones": {
+      "folder": "../blender"
+    }
+  },
+  {
+    "nombre": "escena zoom",
+    "key": "KEY_1",
+    "accion": "control",
+    "opciones": {
+      "host": "ryuk",
+      "accion": "obs_escena",
+      "opciones": {
+        "escena": "Zoon"
+      }
+    }
+  },
+  {
+    "nombre": "Camara",
+    "key": "KEY_Q",
+    "accion": "control",
+    "opciones": {
+      "host": "ryuk",
+      "accion": "obs_escena",
+      "opciones": {
+        "escena": "Camara"
+      }
+    }
+  },
+  {
+    "nombre": "Umaru",
+    "key": "KEY_W",
+    "accion": "control",
+    "opciones": {
+      "host": "ryuk",
+      "accion": "obs_escena",
+      "opciones": {
+        "escena": "Umaru"
+      }
+    }
+  },
+  {
+    "nombre": "Solo_Umaru",
+    "key": "KEY_2",
+    "accion": "control",
+    "opciones": {
+      "host": "ryuk",
+      "accion": "obs_escena",
+      "opciones": {
+        "escena": "Solo_Umaru"
+      }
+    }
+  },
+  {
+    "nombre": "Ryuk",
+    "key": "KEY_E",
+    "accion": "control",
+    "opciones": {
+      "host": "ryuk",
+      "accion": "obs_escena",
+      "opciones": {
+        "escena": "Ryuk"
+      }
+    }
+  },
+  {
+    "nombre": "Solo_Ryuk",
+    "key": "KEY_3",
+    "accion": "control",
+    "opciones": {
+      "host": "ryuk",
+      "accion": "obs_escena",
+      "opciones": {
+        "escena": "Solo_Ryuk"
+      }
+    }
+  },
+  {
+    "nombre": "Apoyo",
+    "key": "KEY_R",
+    "accion": "control",
+    "opciones": {
+      "host": "ryuk",
+      "accion": "obs_escena",
+      "opciones": {
+        "escena": "Apoyo"
+      }
+    }
+  },
+  {
+    "nombre": "Apoyo_zoom",
+    "key": "KEY_4",
+    "accion": "control",
+    "opciones": {
+      "host": "ryuk",
+      "accion": "obs_escena",
+      "opciones": {
+        "escena": "Apoyo_zoom"
+      }
+    }
+  },
+  {
+    "nombre": "Cenital",
+    "key": "KEY_T",
+    "accion": "control",
+    "opciones": {
+      "host": "ryuk",
+      "accion": "obs_escena",
+      "opciones": {
+        "escena": "Cenital"
+      }
+    }
+  },
+  {
+    "nombre": "Camara",
+    "key": "KEY_Q",
+    "accion": "control",
+    "opciones": {
+      "host": "ryuk",
+      "accion": "obs_escena",
+      "opciones": {
+        "escena": "Camara"
+      }
+    }
+  },
+  {
+    "nombre": "Circuito",
+    "key": "KEY_6",
+    "accion": "control",
+    "opciones": {
+      "host": "ryuk",
+      "accion": "obs_escena",
+      "opciones": {
+        "escena": "Circuito"
+      }
+    }
+  },
+  {
+    "nombre": "Salir",
+    "key": "KEY_ESC",
+    "accion": "salir"
+  },
+  {
+    "nombre": "Reiniciar Data",
+    "accion": "reiniciar_data",
+    "key": "KEY_F1"
+  }
+]
