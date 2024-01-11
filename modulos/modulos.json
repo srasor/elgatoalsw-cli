@@ -1,0 +1,5 @@
+{
+  "teclado": true,
+  "mqtt": true,
+  "control": true
+}
